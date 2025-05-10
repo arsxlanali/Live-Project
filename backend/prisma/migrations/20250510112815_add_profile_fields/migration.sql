@@ -1,0 +1,8 @@
+-- AlterTable
+ALTER TABLE "User" ADD COLUMN "address" TEXT;
+ALTER TABLE "User" ADD COLUMN "dateOfBirth" TEXT;
+ALTER TABLE "User" ADD COLUMN "facebook" TEXT;
+ALTER TABLE "User" ADD COLUMN "gender" TEXT;
+ALTER TABLE "User" ADD COLUMN "location" TEXT;
+ALTER TABLE "User" ADD COLUMN "photo" TEXT;
+ALTER TABLE "User" ADD COLUMN "twitter" TEXT;
